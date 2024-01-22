@@ -104,3 +104,7 @@ header {
 .list-group-item {
   display: flex;
 }
+
+.bi-floppy-fill:hover {
+  color: black;
+}
